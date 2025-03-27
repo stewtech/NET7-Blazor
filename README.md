@@ -1,6 +1,8 @@
 # EF-Core-VS.-Dapper
 EF Core VS. Dapper
 
+ .Net 7 Blazor UI using razor code for the frontend and Swagger for testing, EF core functionality as well as Dapper for ORM and MS SQL for a database.
+
 What is an ORM?
 An ORM (Object-Relational Mapper) is a tool that helps your application communicate with a database.
 
